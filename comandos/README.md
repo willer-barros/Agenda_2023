@@ -7,6 +7,9 @@ iniciar projeto django
     caminho_arquivo/venv/scripts/activate
 -> pip install django
 
+#criar app
+python manage.py startapp nome_app
+
 
 Configurar gitHub
 git config --global user.name 'Seu nome'
